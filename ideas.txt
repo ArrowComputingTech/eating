@@ -1,0 +1,11 @@
+Themes: nightmares, road trip, attack of the giant monster, eating
+
+- drag godzilla around and catch/eat falling buildings. People fall out of the buildings sometimes (bonus points).
+- speeding away from the kraken in a boat, must throw barrels filled with food or poision overboard.
+    Food makes him speed up/eat you, poison slows him down, dies after 3-5 poison barrels
+- memory game with various creatures that eat different kinds of food, but some creatures can eat other creatures which doesn't count toward winning and removes potential cards/points
+- speeding down highway, you have to eat other cars/vehicles for fuel, some cars are dangerous and can blow your car up/catch it on fire etc... (rad racer)
+- protect the steak: keep a pack of dogs from getting to your steak. Dogs bounce off of you if you're facing away from them, or if you tap them they also bounce back away (gravity based game)
+- hamburger stack: ingredients are stacked on 3 tables (1 initially) and you must make perfect hamburgers by dragging them to different tables (towers of hanoi, but points for accuracy in stacking)
+- Route 66: Travel down route 66 and tap/click the restaurants to stop at them and eat. The vehicle is moving quickly, challenging to tap, or maybe accelerates per tap/click.
+- save souls: demons are chasing crowds of people and eating them. You must tap the people individually to 'save' them.
